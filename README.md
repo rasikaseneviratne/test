@@ -1,3 +1,3 @@
 # test
 
-Using this to test a ingress-nginx on k8s
+Using this repository to store a YAML file to create a service in nginx namespace
