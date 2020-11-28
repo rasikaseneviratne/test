@@ -63,4 +63,3 @@ spec:
           serviceName: barr-service
           servicePort: 5678
 ---
-
